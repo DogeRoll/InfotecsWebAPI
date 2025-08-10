@@ -1,1 +1,11 @@
 ./data/*
+./src/InfotecsWebAPI.Domain/obj/*
+./src/InfotecsWebAPI.Domain/bin/*
+./src/InfotecsWebAPI.Application/obj/*
+./src/InfotecsWebAPI.Application/bin/*
+./src/InfotecsWebAPI.Persistence/obj/*
+./src/InfotecsWebAPI.Persistence/bin/*
+./src/InfotecsWebAPI.Web/obj/*
+./src/InfotecsWebAPI.Web/bin/*
+./src/InfotecsWebAPI.CsvParser/obj/*
+./src/InfotecsWebAPI.CsvParser/bin/*

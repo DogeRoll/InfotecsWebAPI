@@ -16,7 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\InfotecsWebAPI.Application\InfotecsWebAPI.Application.csproj" />
-    <ProjectReference Include="..\InfotecsWebApi.CsvParser\InfotecsWebApi.SepCsvParser.csproj" />
+    <ProjectReference Include="..\InfotecsWebAPI.CsvParser\InfotecsWebAPI.SepCsvParser.csproj" />
     <ProjectReference Include="..\InfotecsWebAPI.Persistence\InfotecsWebAPI.Persistence.csproj" />
   </ItemGroup>
 

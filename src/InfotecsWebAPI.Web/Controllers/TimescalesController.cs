@@ -30,7 +30,7 @@ namespace InfotecsWebAPI.Web.Controllers
 
         [HttpPost("upload")]
         [Consumes("multipart/form-data")]
-        public async Task<IActionResult> UploadCsvFile(IFormFile file)
+        public async Task<ActionResult<Result>> UploadCsvFile(IFormFile file)
         {
             if (file == null || file.Length == 0)
                 return BadRequest("File is empty");

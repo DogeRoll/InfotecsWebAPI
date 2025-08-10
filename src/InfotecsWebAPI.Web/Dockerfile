@@ -6,6 +6,7 @@ USER $APP_UID
 WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
+EXPOSE 5026
 
 
 # This stage is used to build the service project
@@ -13,7 +14,11 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["InfotecsWebAPI.Web/InfotecsWebAPI.Web.csproj", "InfotecsWebAPI.Web/"]
-RUN dotnet restore "./InfotecsWebAPI.Web/InfotecsWebAPI.Web.csproj"
+COPY ["InfotecsWebAPI.Application/InfotecsWebAPI.Application.csproj", "InfotecsWebAPI.Application/"]
+COPY ["InfotecsWebAPI.Domain/InfotecsWebAPI.Domain.csproj", "InfotecsWebAPI.Domain/"]
+COPY ["InfotecsWebAPI.Persistence/InfotecsWebAPI.Persistence.csproj", "InfotecsWebAPI.Persistence/"]
+COPY ["InfotecsWebAPI.CsvParser/InfotecsWebAPI.SepCsvParser.csproj", "InfotecsWebAPI.CsvParser/"]
+RUN dotnet restore -v normal "./InfotecsWebAPI.Web/InfotecsWebAPI.Web.csproj"
 COPY . .
 WORKDIR "/src/InfotecsWebAPI.Web"
 RUN dotnet build "./InfotecsWebAPI.Web.csproj" -c $BUILD_CONFIGURATION -o /app/build
