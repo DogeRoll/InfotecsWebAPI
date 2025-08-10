@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|solutionrelative:infotecswebapi.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\usecases\\queries\\getlasttimescales\\getlasttimescalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\usecases\\queries\\getlasttimescales\\getlasttimescalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\dtos\\queries\\lasttimescalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\dtos\\queries\\lasttimescalesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.web\\controllers\\timescalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|solutionrelative:infotecswebapi.web\\controllers\\timescalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4D9BD9C-9E96-49C7-9662-C014F0EBEBA5}|InfotecsWebAPI.Persistence\\InfotecsWebAPI.Persistence.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.persistence\\repositories\\eftimescalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4D9BD9C-9E96-49C7-9662-C014F0EBEBA5}|InfotecsWebAPI.Persistence\\InfotecsWebAPI.Persistence.csproj|solutionrelative:infotecswebapi.persistence\\repositories\\eftimescalesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\usecases\\queries\\getfilteredtimescales\\getfilteredtimescalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\usecases\\queries\\getfilteredtimescales\\getfilteredtimescalesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\usecases\\queries\\getlasttimescales\\getlasttimescalesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\usecases\\queries\\getlasttimescales\\getlasttimescalesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\usecases\\queries\\getfilteredtimescales\\getfilteredtimescalesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\usecases\\queries\\getfilteredtimescales\\getfilteredtimescalesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\infotecswebapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\infotecswebapi.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5CDBA5-DC86-4E2C-8D00-EE5D4E0212BC}|InfotecsWebApi.CsvParser\\InfotecsWebApi.SepCsvParser.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.csvparser\\sepcsvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5CDBA5-DC86-4E2C-8D00-EE5D4E0212BC}|InfotecsWebApi.CsvParser\\InfotecsWebApi.SepCsvParser.csproj|solutionrelative:infotecswebapi.csvparser\\sepcsvparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\usecases\\commands\\fileupload\\fileuploadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\usecases\\commands\\fileupload\\fileuploadcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\abstractions\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\abstractions\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46D51A2-37E7-4CAC-968E-56ADFFFB005B}|InfotecsWebAPI.Domain\\InfotecsWebAPI.Domain.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46D51A2-37E7-4CAC-968E-56ADFFFB005B}|InfotecsWebAPI.Domain\\InfotecsWebAPI.Domain.csproj|solutionrelative:infotecswebapi.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46D51A2-37E7-4CAC-968E-56ADFFFB005B}|InfotecsWebAPI.Domain\\InfotecsWebAPI.Domain.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.domain\\entities\\timescaleresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46D51A2-37E7-4CAC-968E-56ADFFFB005B}|InfotecsWebAPI.Domain\\InfotecsWebAPI.Domain.csproj|solutionrelative:infotecswebapi.domain\\entities\\timescaleresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.web\\extensions\\appbuilderextensions\\setupdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|solutionrelative:infotecswebapi.web\\extensions\\appbuilderextensions\\setupdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.web\\services\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7D98F8-4009-4535-ABC1-F63394DBD93D}|InfotecsWebAPI.Web\\InfotecsWebAPI.Web.csproj|solutionrelative:infotecswebapi.web\\services\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|c:\\users\\doge\\source\\repos\\infotecswebapi\\infotecswebapi.application\\dtos\\csvparsing\\timescaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606399FB-D837-78CA-B2EE-0E69A8E6E697}|InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj|solutionrelative:infotecswebapi.application\\dtos\\csvparsing\\timescaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Dockerfile",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Web\\Dockerfile",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Dockerfile",
+              "RelativeToolTip": "InfotecsWebAPI.Web\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-10T17:19:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFilteredTimescalesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQuery.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQuery.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQuery.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:14:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimescalesController.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Controllers\\TimescalesController.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Web\\Controllers\\TimescalesController.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Controllers\\TimescalesController.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Web\\Controllers\\TimescalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:09:49.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LastTimescalesDto.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Dtos\\Queries\\LastTimescalesDto.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\Dtos\\Queries\\LastTimescalesDto.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Dtos\\Queries\\LastTimescalesDto.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\Dtos\\Queries\\LastTimescalesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:00:11.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetLastTimescalesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQueryHandler.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQueryHandler.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:57:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetLastTimescalesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQuery.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQuery.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQuery.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetLastTimescales\\GetLastTimescalesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:56:47.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfTimescalesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Persistence\\Repositories\\EfTimescalesRepository.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Persistence\\Repositories\\EfTimescalesRepository.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Persistence\\Repositories\\EfTimescalesRepository.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Persistence\\Repositories\\EfTimescalesRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAewFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T16:52:57.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfotecsWebAPI.Application",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\InfotecsWebAPI.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-10T15:41:14.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetFilteredTimescalesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQueryHandler.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQueryHandler.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\UseCases\\Queries\\GetFilteredTimescales\\GetFilteredTimescalesQueryHandler.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:27:29.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileUploadCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Commands\\FileUpload\\FileUploadCommandHandler.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\UseCases\\Commands\\FileUpload\\FileUploadCommandHandler.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\UseCases\\Commands\\FileUpload\\FileUploadCommandHandler.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\UseCases\\Commands\\FileUpload\\FileUploadCommandHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIAwwCkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:23:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Abstractions\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\Abstractions\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Abstractions\\IDbInitializer.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\Abstractions\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:22:45.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Domain\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Domain\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Domain\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Domain\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:17:30.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimescaleResults.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Domain\\Entities\\TimescaleResults.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Domain\\Entities\\TimescaleResults.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Domain\\Entities\\TimescaleResults.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Domain\\Entities\\TimescaleResults.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA6wBYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:14:26.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SepCsvParser.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebApi.CsvParser\\SepCsvParser.cs",
+              "RelativeDocumentMoniker": "InfotecsWebApi.CsvParser\\SepCsvParser.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebApi.CsvParser\\SepCsvParser.cs",
+              "RelativeToolTip": "InfotecsWebApi.CsvParser\\SepCsvParser.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:11:17.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SetupDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Extensions\\AppBuilderExtensions\\SetupDatabase.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Web\\Extensions\\AppBuilderExtensions\\SetupDatabase.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Extensions\\AppBuilderExtensions\\SetupDatabase.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Web\\Extensions\\AppBuilderExtensions\\SetupDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:10:06.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Services\\FileReader.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Web\\Services\\FileReader.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Web\\Services\\FileReader.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Web\\Services\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:08:05.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TimescaleDto.cs",
+              "DocumentMoniker": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Dtos\\CsvParsing\\TimescaleDto.cs",
+              "RelativeDocumentMoniker": "InfotecsWebAPI.Application\\Dtos\\CsvParsing\\TimescaleDto.cs",
+              "ToolTip": "C:\\Users\\doge\\source\\repos\\InfotecsWebAPI\\InfotecsWebAPI.Application\\Dtos\\CsvParsing\\TimescaleDto.cs",
+              "RelativeToolTip": "InfotecsWebAPI.Application\\Dtos\\CsvParsing\\TimescaleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T15:03:55.395Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
